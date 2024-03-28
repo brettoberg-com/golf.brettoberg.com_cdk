@@ -2,12 +2,11 @@
   "name": "golf.brettoberg.com_cdk",
   "version": "1.0.0",
   "bin": {
-    "index": "bin/index.js"
+    "index": "dist/bin/index.js"
   },
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
-    "test": "jest",
     "cdk": "cdk"
   },
   "devDependencies": {
